@@ -4,6 +4,11 @@ export default sidebar({
   "/": [
     "",
     {
+      text: '简介',
+      icon: "person-chalkboard",
+      link: 'intrduce',
+    },
+    {
       text: "案例",
       icon: "laptop-code",
       prefix: "demo/",
@@ -21,5 +26,6 @@ export default sidebar({
       icon: "person-chalkboard",
       link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",
     },
+    
   ],
 });

@@ -1,19 +1,19 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 示例网站
 heroImage: /assets/image/d-logo.svg
 #bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImage: /assets/image/backgroud.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
+heroText: 示例网站
 tagline: 你可以在这里放置或是整个项目的描述。
 actions:
-  - text: 使用指南
+  - text: 本示例简介
     icon: lightbulb
-    link: ./demo/
+    link: ./intrduce
     type: primary
 
   - text: 文档
